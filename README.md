@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YugankDabas
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python Programing
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 Passionate about Artificial Intelligence and Machine Learning
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on Projects related to CNN
 
 <!---
 YugankDabas/YugankDabas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
